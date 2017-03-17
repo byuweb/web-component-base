@@ -1,0 +1,22 @@
+{
+  "name": "byu-web-component-utils",
+  "version": "0.1.0",
+  "description": "Utilities for BYU Web Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuweb/web-component-base.git"
+  },
+  "author": "BYU Web Community",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/byuweb/web-component-base/issues"
+  },
+  "homepage": "https://github.com/byuweb/web-component-base#readme",
+  "dependencies": {
+    "hash-sum": "^1.0.2"
+  }
+}
