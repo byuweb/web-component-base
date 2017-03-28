@@ -3,7 +3,7 @@
  */
 "use strict";
 
-import applyTemplate from './utils/templating';
+import applyTemplate from './lib/templating';
 
 export {
     applyTemplate
