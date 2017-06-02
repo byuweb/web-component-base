@@ -6,9 +6,11 @@
 import applyTemplate from './lib/templating';
 import matchesSelector from './lib/matchesSelector';
 import querySelectorSlot from './lib/querySelectorSlot';
+import createEvent from './lib/createEvent';
 
 export {
     applyTemplate,
     matchesSelector,
-    querySelectorSlot
+    querySelectorSlot,
+    createEvent
 };
