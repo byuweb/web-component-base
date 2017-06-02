@@ -4,7 +4,11 @@
 "use strict";
 
 import applyTemplate from './lib/templating';
+import matchesSelector from './lib/matchesSelector';
+import querySelectorSlot from './lib/querySelectorSlot';
 
 export {
-    applyTemplate
+    applyTemplate,
+    matchesSelector,
+    querySelectorSlot
 };
