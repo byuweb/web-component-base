@@ -1,6 +1,6 @@
 {
   "name": "byu-web-component-utils",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Utilities for BYU Web Components",
   "main": "index.js",
   "scripts": {
